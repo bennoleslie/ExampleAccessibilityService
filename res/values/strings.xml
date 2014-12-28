@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExampleAccessibilityService</string>
+    <string name="accessibility_service_description">Example accessibility service description</string>
+    <string name="accessibility_service_label">My accessibility service label</string>
+</resources>
